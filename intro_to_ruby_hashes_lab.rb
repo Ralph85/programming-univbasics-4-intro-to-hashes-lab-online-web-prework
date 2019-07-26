@@ -21,9 +21,8 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
-  hello = {
-    key: 1
-  }
+  {"hello" => 1}
+  
 end
 
 def update_counting_hash(hash, key)
