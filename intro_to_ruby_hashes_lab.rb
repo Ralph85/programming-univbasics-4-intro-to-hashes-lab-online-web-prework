@@ -26,5 +26,5 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  actor = {"Dwayne The Rock Johnson"}
+  actor = {name: "Dwayne The Rock Johnson", age: "45", attitude: "Positive"}
 end
