@@ -22,7 +22,7 @@ end
 
 def read_from_hash(hash, key)
   hash = {"hello" => 1}
-  
+
 end
 
 def update_counting_hash(hash, key)
